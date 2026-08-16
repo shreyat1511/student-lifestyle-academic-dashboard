@@ -54,7 +54,15 @@ The dataset includes variables such as:
 - Gender
 
 > Dataset source: Kaggle  
-> Original dataset attribution will be provided here.
+
+The dataset used in this project was obtained from Kaggle:
+
+[University Student Performance & Habits Dataset](https://www.kaggle.com/datasets/robiulhasanjisan/university-student-performance-and-habits-dataset)
+
+The dataset contains 5,000 student records covering academic performance,
+attendance, study habits, sleep, social activity, demographics, and major.
+
+The dataset is licensed under CC BY-NC-SA 4.0.
 
 ## Project Files
 
