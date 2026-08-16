@@ -60,6 +60,10 @@ The dataset includes variables such as:
 
 - `mini project dashboard 16014023053.twb` — Tableau workbook containing the dashboard and visualizations.
 
+## Dashboard Preview
+
+![Student Lifestyle & Academic Performance Dashboard](dashboard.png)
+
 ## Author
 
 **Shreya Thapa**
